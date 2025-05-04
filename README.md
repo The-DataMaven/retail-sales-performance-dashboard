@@ -51,7 +51,7 @@ The following steps were taken to prepare the dataset:
 - **Bar charts** for top products and customers
 
 ### 📷 Dashboard Preview
-
+![retail-sales-performance-dashboard](dashboard.JPG)
 
 ### 🔗 Live Dashboard
 View the interactive dashboard on Tableau Public:

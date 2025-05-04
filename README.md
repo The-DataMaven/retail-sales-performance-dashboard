@@ -1,7 +1,7 @@
-# 🛍️ Retail Sales Perfoemance Dashboard
+# 🛍️ Retail Sales Performance Dashboard
 
 ### Project Overview
-This project presents an interactive Tableau dashboard built using the UCI Online Retail Dataset, which contains transactional data for a UK-based online retailer from 2009 to 2011. The dashboard is designed to help stakeholders uncover key business insights around sales performance, customer behavior, and product trends across countries.
+This project presents an interactive Tableau dashboard built using the UCI Online Retail Dataset, which contains transactional data for a UK-based online retailer from 2010 and 2011. The dashboard is designed to help stakeholders uncover key business insights around sales performance, customer behavior, and product trends across countries.
 
 
 ### 📁 Dataset
